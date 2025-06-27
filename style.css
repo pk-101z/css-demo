@@ -1,0 +1,25 @@
+#WOWXA {
+    font-size: 50px;
+}
+
+
+.highlight {
+    color:teal
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
+ h1 {
+    border: color(green red green blue);
+ }
+
+
+ span {
+    display: block;
+ }
